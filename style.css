@@ -7,11 +7,11 @@ body {
 }
 
 h2 {
-  margin-bottom: 15px;
+  margin-bottom: 10px;
 }
 
 .countdown {
-  margin: 15px 0;
+  margin: 10px 0;
 }
 
 .countdown p {
@@ -21,6 +21,6 @@ h2 {
 }
 
 .countdown div {
-  font-size: 28px;
+  font-size: 18px;
   font-weight: bold;
 }
